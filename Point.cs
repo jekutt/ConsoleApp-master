@@ -82,6 +82,7 @@ namespace ConsoleApp
             B._x += p._x;
             B._y += p._y;
             Console.WriteLine("Point({0}; {1})", B._x, B._y);
+
         }
 
     }
